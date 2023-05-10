@@ -8,7 +8,7 @@ Le Conservateur dirige la Fondation, agit en son nom, accomplit ou autorise tous
 
 ## 🏗️ ORGANIGRAMME
 
-![ORGANIGRAMME](https://github.com/Walidoux/IDEAS/assets/87608619/0e727661-1385-44ec-b847-e3c719bc3d07)
+![ORGANIGRAMME](https://github.com/Walidoux/IDEAS/assets/87608619/a599191c-d5a0-4905-b05f-681b6c870e38)
 
 # 👥 Représentants et membres de l'institution
 
