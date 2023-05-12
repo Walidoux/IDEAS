@@ -1,4 +1,10 @@
-// words between curly brackets are __interactive variables__ which are defined on select outside the "Window Wired Manager"
 
-teleport {player} to {player} // same for furnis and pets
-teleport 
+```js
+// words between curly brackets are __interactive variables__ which are defined on select outside the "Window Wired Manager"
+// entity can be: furni, pet, player...
+
+teleport {entity} to {entity}
+make {entity} sit/lay
+broadcast "my message"
+whisper {entity} with "my message"
+```
